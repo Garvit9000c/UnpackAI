@@ -49,6 +49,11 @@
 - **Convolutional Neural Network** + Transfer Learning : Computer-Vision/Image/video
 - **Recurrent Neural Network** : Time-series Data/ Natural Language Processing
 
-# Deploy
+# Deploy:
 - Flask
 - Heroku/AWS/Azure
+
+# Approch:
+- Instead Of Learning Each Segment Individually, We will Be Doing Projects.
+- Each Project will be Targeting Specific ML/DL/DS technique.
+- With Each Project we will explore its Logic/Library/Statistics/Mathematics on the Go. 
