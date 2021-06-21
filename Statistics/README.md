@@ -1,4 +1,9 @@
 # Statistics for Data Science
+
+[Intoductory Statistics book](http://www.ru.ac.bd/stat/wp-content/uploads/sites/25/2019/03/102_03_Weiss-Introductory-Statistics-2017.pdf)
+
+[Probability and Statistics book](https://www.isibang.ac.in/~athreya/psweur/)
+
 1. Introduction and type of data, Types of data, Descriptive and Inferential statistics, Scales of measurement
 2. Describing categorical data Frequency distribution of categorical data, Best practices for graphing categorical data, Mode and median for categorical variable
 3. Describing numerical data Frequency tables for numerical data, Measures of central tendency - Mean, median and mode, Quartiles and percentiles, Measures of dispersion - Range, variance, standard deviation and IQR, Five number summary
